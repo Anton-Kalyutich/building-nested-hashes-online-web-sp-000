@@ -27,7 +27,7 @@ def first_challenge
         ]
       },
       
-      :capulet =>{
+      :capulet => {
        :patriarch => {
          :name => "Lord Montague",
          :age => "53"
