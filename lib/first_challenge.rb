@@ -34,7 +34,7 @@ def first_challenge
        },
        :matriarch => {
          :name => "Lady Capulet",
-         :age => "54"
+         :age => "51"
        },
        :hero => {
          :name => "Romeo",
