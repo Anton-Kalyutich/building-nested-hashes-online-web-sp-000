@@ -41,7 +41,7 @@ def first_challenge
          :age => "15",
          :status => "alive"
        },
-       :hero_friends => [
+       :heroine_friends => [
          {
            :name => "Benvolio",
            :age => "17",
